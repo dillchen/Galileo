@@ -1,3 +1,5 @@
+pragma solidity ^0.4.0;
+
 Alice has 1 LTC that she wants to trade for 1 ETH.
 First, Alice sends her private key containing the 1 LTC to the Galileo smart contract/DAO. 
 // (As long as there's some privacy preserving way to send this over an unreliable communication network, the privKey will only be known by the DAO, which will hide the details.)
